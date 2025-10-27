@@ -1,0 +1,233 @@
+{
+    "spaghetti carbonara": [
+        "spaghetti",
+        "eggs",
+        "pancetta",
+        "parmesan cheese",
+        "black pepper"
+    ],
+    "caesar salad": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan cheese",
+        "Caesar dressing"
+    ],
+    "chicken curry": [
+        "chicken",
+        "curry powder",
+        "coconut milk",
+        "onion",
+        "garlic",
+        "ginger"
+    ],
+    "beef tacos": [
+        "ground beef",
+        "taco shells",
+        "lettuce",
+        "tomato",
+        "cheddar cheese"
+    ],
+    "vegetable stir-Fry": [
+        "broccoli",
+        "bell pepper",
+        "carrot",
+        "soy sauce",
+        "garlic"
+    ],
+    "grilled salmon": [
+        "salmon fillet",
+        "olive oil",
+        "lemon",
+        "dill",
+        "salt"
+    ],
+    "margarita pizza": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella cheese",
+        "basil"
+    ],
+    "tomato soup": [
+        "tomatoes",
+        "onion",
+        "garlic",
+        "vegetable broth",
+        "cream"
+    ],
+    "shrimp fried rice": [
+        "shrimp",
+        "rice",
+        "peas",
+        "carrots",
+        "soy sauce",
+        "egg"
+    ],
+    "chocolate cake": [
+        "flour",
+        "cocoa powder",
+        "sugar",
+        "eggs",
+        "butter",
+        "baking powder"
+    ],
+    "greek salad": [
+        "cucumber",
+        "tomato",
+        "feta cheese",
+        "olives",
+        "olive oil"
+    ],
+    "pancakes": [
+        "flour",
+        "milk",
+        "eggs",
+        "butter",
+        "sugar"
+    ],
+    "chicken alfredo": [
+        "fettuccine",
+        "chicken breast",
+        "cream",
+        "parmesan cheese",
+        "garlic"
+    ],
+    "beef stew": [
+        "beef chunks",
+        "potatoes",
+        "carrots",
+        "onion",
+        "beef broth"
+    ],
+    "fish and chips": [
+        "white fish",
+        "potatoes",
+        "flour",
+        "oil",
+        "salt"
+    ],
+    "vegetable soup": [
+        "carrots",
+        "celery",
+        "potatoes",
+        "onion",
+        "vegetable broth"
+    ],
+    "bbq ribs": [
+        "pork ribs",
+        "BBQ sauce",
+        "salt",
+        "pepper"
+    ],
+    "avocado toast": [
+        "bread",
+        "avocado",
+        "olive oil",
+        "salt",
+        "pepper"
+    ],
+    "lasagna": [
+        "lasagna noodles",
+        "ground beef",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella"
+    ],
+    "fruit salad": [
+        "apple",
+        "banana",
+        "grapes",
+        "orange",
+        "strawberries"
+    ],
+    "kung pao chicken": [
+        "chicken thigh",
+        "peanuts",
+        "dried chili",
+        "scallion",
+        "garlic",
+        "ginger",
+        "soy sauce",
+        "vinegar",
+        "sugar"
+    ],
+    "mapo tofu": [
+        "soft tofu",
+        "ground pork",
+        "doubanjiang",
+        "Sichuan peppercorn",
+        "garlic",
+        "ginger",
+        "scallion",
+        "soy sauce",
+        "stock"
+    ],
+    "sweet and sour pork": [
+        "pork",
+        "pineapple",
+        "bell pepper",
+        "onion",
+        "vinegar",
+        "ketchup",
+        "sugar",
+        "soy sauce"
+    ],
+    "beef chow fun": [
+        "beef",
+        "wide rice noodles",
+        "bean sprouts",
+        "scallion",
+        "soy sauce",
+        "dark soy sauce",
+        "oil"
+    ],
+    "fried rice": [
+        "day-old rice",
+        "egg",
+        "shrimp",
+        "ham",
+        "peas",
+        "carrot",
+        "scallion",
+        "soy sauce"
+    ],
+    "hot and sour soup": [
+        "pork",
+        "tofu",
+        "wood ear mushroom",
+        "bamboo shoots",
+        "egg",
+        "vinegar",
+        "white pepper",
+        "soy sauce"
+    ],
+    "egg and tomato stir-fry": [
+        "egg",
+        "tomato",
+        "scallion",
+        "salt",
+        "sugar"
+    ],
+    "chicken and corn soup": [
+        "chicken",
+        "sweet corn",
+        "egg",
+        "stock",
+        "white pepper"
+    ],
+    "scallion pancakes": [
+        "flour",
+        "water",
+        "scallion",
+        "oil",
+        "salt"
+    ],
+    "three cup chicken": [
+        "chicken",
+        "soy sauce",
+        "rice wine",
+        "sesame oil",
+        "garlic",
+        "ginger",
+        "basil"
+    ]
+}
