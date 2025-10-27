@@ -1,3 +1,4 @@
+<img width="1600" height="2000" alt="poster" src="https://github.com/user-attachments/assets/e6edf8cf-3a36-4eb7-b05c-25611fb218e9" />
 
 # Couple's Kitchen Menu System
 
